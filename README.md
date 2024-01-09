@@ -10,6 +10,3 @@ Instal All dependencies in this project
 
 Runs the application and you may see new container is created with image_name and run the port.<br />
 Open [http://localhost:8080/](http://localhost:8080/) to view it in the browser.
-
-=======
-# Docker_Project
