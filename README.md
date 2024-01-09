@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-
 ## Available Scripts
 
 In the project directory, open docker desktop and run the below command in terminal:
@@ -16,4 +13,3 @@ Open [http://localhost:8080/](http://localhost:8080/) to view it in the browser.
 
 =======
 # Docker_Project
->>>>>>> abc31bf089a8d0026278f65af6039bc7937c9597
